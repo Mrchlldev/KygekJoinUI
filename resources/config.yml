@@ -43,7 +43,7 @@ commands-on-close:
 - "say Selamat Bermain!"
 Mode: SimpleForm
 title: "§l§eOSFORCE NETWORK S6"
-content: "§e=======§b[ §aWELCOME §b]§e=======\n\n§r§fSelamat Datang Di Server §l§eOSFORCE NETWORK§r\nKamu Berada Di Zone: §eLobby§f\nJangan lupa ajak §eTeman§f kalian untuk bermain di server ini!\nJangan lupa patuhi rules yang ada di §e(/info rules)§f !!\nIngin membeli rank? Chat: §e+62 813-8647-0421\n\n§fSelamat Bermain §e!!!"
+content: "§e=======§b[ §aWELCOME §b]§e=======\n\n§r§fSelamat Datang Di Server §l§eOSFORCE NETWORK§r\nKamu Berada Di Zone: §eEconomy§f\nJangan lupa ajak §eTeman§f kalian untuk bermain di server ini!\nJangan lupa patuhi rules yang ada di §e(/info rules)§f !!\nIngin membeli rank? Chat: §e+62 813-8647-0421\n\n§fSelamat Bermain §e!!!"
 Buttons:
   SimpleForm:
   - name: "§aLet's Go"
