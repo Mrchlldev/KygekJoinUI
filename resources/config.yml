@@ -43,7 +43,7 @@ commands-on-close:
 - say Hello!
 Mode: SimpleForm
 title: KygekJoinUI
-content: Change in config.yml!
+content: "§e=======§b[ §aWELCOME §b]§e=======\n\n§r§fSelamat Datang Di Server §l§eOSFORCE NETWORK§r\nKamu Berada Di Zone: §eLobby§f\nJangan lupa ajak §eTeman§f kalian untuk bermain di server ini!\nJangan lupa patuhi rules yang ada di §e(/info rules)§f !!\nIngin membeli rank? Chat"
 Buttons:
   SimpleForm:
   - name: "Ok"
